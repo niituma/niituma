@@ -3,7 +3,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=niituma&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=niituma&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=niituma&theme=dark_lover&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niituma&theme=monokai)
