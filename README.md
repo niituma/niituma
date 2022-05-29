@@ -1,4 +1,6 @@
 ### 酒より鮭 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niituma
+)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
