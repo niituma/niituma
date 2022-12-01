@@ -1,6 +1,8 @@
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niituma&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=niituma&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  
+   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niituma&layout=compact&count_private=trueshow_icons=true&theme=cobalt&text_color=#FFFFFF" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=niituma&count_private=true&show_icons=true&show_icons=true&theme=cobalt&text_color=#FFFFFF" />
+  
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=niituma&theme=dark_lover&column=7
