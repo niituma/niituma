@@ -1,8 +1,8 @@
 ### [Portfolio](https://niitsumashunsuke.wixsite.com/website)
 
 <p align="left"> 
-   <img alt="Top Langs" height="150px" src="https://github-readme-stats-soso-15315.vercel.app/api/top-langs/?username=niituma&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats-soso-15315.vercel.app/api?username=niituma&theme=onedark&show_icons=ture" />
+   <img alt="Top Langs" height="150px" src="https://github-readme-stats-soso-15315.vercel.app/api/top-langs/?username=niituma&layout=compact&show_icons=true&theme=cobalt" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-soso-15315.vercel.app/api?username=niituma&theme=cobalt&show_icons=ture" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=niituma&theme=dark_lover&column=7
